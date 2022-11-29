@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Lucas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lucasnm14/lucasnm14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Lucas from Argentina, and I'm 27
+- 🎓 I study CS at UNCuyo and Electronic engineering at UTN - FRM
+- 🧠 I'm working with Arduino and VHDL, C, Python and Java
+- 👀 Currently I am learning frontend.
+- 🎸 I'm a musician and a former cook. I love videogames and complex movies
