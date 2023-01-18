@@ -2,4 +2,4 @@
 - 🎓 I study CS at UNCuyo and Electronic engineering at UTN - FRM
 - 🧠 I'm working with Arduino and VHDL, C, Python and Java
 - 👀 Currently I am learning frontend.
-- 🎸 I'm a musician and a former cook. I love videogames and sci-fi movies
+- 🎸 I play the guitar and I'm a former cook. I love sci-fi movies, science and crime books and videogames 
