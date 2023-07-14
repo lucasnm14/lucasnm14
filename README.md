@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Lucas from Argentina, and I'm 27
-- 🎓 I study CS at UNCuyo and Electronic engineering at UTN - FRM
+- 🎓 I study Electronic engineering at UTN - FRM
+- Formely I studied CS (UNCUYO) and Information Systems Engineer (UTN - FRM)
 - 🧠 I'm working with Arduino and VHDL, C, Python and Java
 - 👀 Currently I am learning frontend.
 - 🎸 I play the guitar and I'm a former cook. I love sci-fi movies, videogames, science and crime books.
