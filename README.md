@@ -2,5 +2,5 @@
 - 🎓 I study Electronic engineering at UTN - FRM
 - Formely I studied CS (UNCUYO) and Information Systems Engineer (UTN - FRM)
 - 🧠 I'm working with Arduino and VHDL, C, Python and Java
-- 👀 Currently I am learning frontend.
+- 👀 Currently I am learning data science.
 - 🎸 I play the guitar and I'm a former cook. I love sci-fi movies, videogames, science and crime books.
